@@ -35,7 +35,7 @@ A simple banking application built with React and Redux Toolkit, allowing users 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/react-redux-banking-app.git
+   git clone [https://github.com/your-repo/react-redux-banking-app.git](https://github.com/Dimitriy07/banking-app-redux.git)
    cd react-redux-banking-app
    ```
 2. Install dependencies:
